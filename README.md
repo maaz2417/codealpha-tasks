@@ -1,1 +1,1 @@
-# codealpha-tasks
+This repository contains the completion of my Python programming internship assignments for CodeAlpha. It includes three distinct projects—a Simple Chatbot, a Stock Portfolio Tracker, and a Task Automation Script—designed to demonstrate proficiency in basic logic, data management, and file system automation.
